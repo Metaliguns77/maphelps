@@ -33,3 +33,8 @@ A Python package for geospatial batch processing
 ## code
 
 Python `coding` is really helpful for `batch processing`.
+
+```python
+s = "Python syntax highlighting"
+print s
+```
