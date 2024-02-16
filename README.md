@@ -27,5 +27,8 @@ A Python package for geospatial batch processing
 1. Rich Ecosystem of Libraries
 ⋅⋅1. Ease of Learning and Use
 3. Community and Collaboration
-⋅
+   
+⋅1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+5. And another item.
 
