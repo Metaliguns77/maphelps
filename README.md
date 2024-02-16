@@ -17,3 +17,15 @@ A Python package for geospatial batch processing
 
 ### Static Photo
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaxxxqa-x-xxYcWPjIzdtxogYHWrAFHhMoNUb2YZq33Z-1n0CP4oHyPeIOKJ_GyZJhNCg&usqp=CAU)
+
+## Lists
+
+* Python is cool
+* Duckdb is super fast
+   
+⋅⋅* Importance of Python in ML. 
+1. Rich Ecosystem of Libraries
+⋅⋅1. Ease of Learning and Use
+3. Community and Collaboration
+⋅
+
