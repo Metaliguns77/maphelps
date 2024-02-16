@@ -38,3 +38,10 @@ Python `coding` is really helpful for `batch processing`.
 s = "Python syntax highlighting"
 print s
 ```
+## Youtube Channel for Dr. Wu
+
+## YouTube Channel
+
+This is Dr. Wu's [YouTube Channel](https://youtube.com/@giswqs) for sharing geospatial tutorials. 
+
+[![Earth Engine Tutorials on YouTube](https://wetlands.io/file/images/youtube.png)](https://youtube.com/@giswqs)
